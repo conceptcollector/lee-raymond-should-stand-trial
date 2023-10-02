@@ -3,22 +3,12 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <h1>Who is Lee Raymond and why is he worse than Adolf Hitler?</h1>
+    <p>
+      This isn't just Godwin's Law hyperbole. Lee Raymond is the person who holds the single most
+      responsibility for climate change that anyone in the world could have. He is close to the prime
+      cause of climate denial.
+    </p>
   );
 }
 
