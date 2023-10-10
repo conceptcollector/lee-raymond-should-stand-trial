@@ -7,10 +7,8 @@ import {
 import Intro from '../Intro/Intro';
 import './App.css';
 
-function App() {
+export default function App() {
   return (
     <Intro />
   );
 }
-
-export default App;
